@@ -1,0 +1,20 @@
+p{ 
+  background-color: green; 
+}
+ h1{ 
+     background-color:red; 
+ }
+img{ 
+    width:200px; 
+    height:auto; 
+} 
+img{ 
+    border-color:red; 
+} 
+li{ 
+   font-family: 'Niramit', sans-serif; 
+}  
+body{ 
+    background-color:red; 
+}
+ 
